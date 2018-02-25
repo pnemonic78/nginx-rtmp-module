@@ -60,6 +60,8 @@ include_directories(
             src/nginx/cpp/misc/
             src/nginx/cpp/os/unix/
             src/nginx/cpp/stream/
+
+            src/openssl/cpp/
         )
 
 # Searches for a specified prebuilt library and stores the path as a
